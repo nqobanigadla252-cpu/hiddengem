@@ -26,12 +26,11 @@ export const metadata: Metadata = {
     "A small, family-run guesthouse in the hills of Inanda, KwaZulu-Natal — comfortable rooms, honest hospitality, and a warm welcome for every guest.",
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath d='M24 6L33 20L24 30L15 20Z' fill='%23b4842c'/%3E%3C/svg%3E",
-        type: 'image/svg+xml',
-      },
-    ],
+    icon: {
+      url: '/favicon.svg',
+      type: 'image/svg+xml',
+      sizes: 'any',
+    },
   },
 }
 
