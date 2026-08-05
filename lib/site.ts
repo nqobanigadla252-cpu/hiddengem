@@ -38,7 +38,7 @@ export const rooms: Room[] = [
     priceValue: 'Garden Room (R750/night)',
     sleeps: 'Sleeps 2',
     bed: 'Queen bed',
-    image: '/images/bedroom-teal.png',
+    image: '/120917.jpg',
     blurb:
       'A calm, uncluttered room with a deep teal velvet headboard, soft linens and a view over the garden. Perfect for a couple looking for a quiet escape.',
     features: ['Queen bed', 'En-suite access', 'Free Wi-Fi', 'Garden outlook'],
@@ -50,7 +50,7 @@ export const rooms: Room[] = [
     priceValue: 'Hillside Room (R950/night)',
     sleeps: 'Sleeps 2',
     bed: 'King bed',
-    image: '/images/bedroom-gold.png',
+    image: '/120916.jpg',
     blurb:
       'Our warmest room, dressed in gold and framed by handpicked African art. A generous king bed and bright, sheer-draped windows make it a treat.',
     features: ['King bed', 'Private en-suite', 'Air conditioning', 'Reading nook'],
@@ -62,7 +62,7 @@ export const rooms: Room[] = [
     priceValue: 'Family Suite (R1 450/night)',
     sleeps: 'Sleeps 4',
     bed: 'King + shared living',
-    image: '/images/bedroom-master.png',
+    image: '/120915.jpg',
     blurb:
       'Space to spread out — a master bedroom with its own air conditioning plus access to the open-plan lounge and kitchenette. Ideal for families.',
     features: ['King bed', 'Air conditioning', 'Lounge & kitchenette', 'Extra bedding'],
